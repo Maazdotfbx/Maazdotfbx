@@ -16,7 +16,6 @@
     </th>
   </tr>
 </table>
-
 I am an aspiring Technical Environment and Procedural Artist University student, focused on building immersive, cinematic worlds for AAA games. My work combines atmospheric environment design in Unreal Engine 5.8 with technical pipeline automation using Python.
 ---
 
