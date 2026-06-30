@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Top Banner -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="MAAZDOTFBX Banner" width="100%">
+  <img src="https://github.com/Maazdotfbx/portfolio-assets/blob/main/123.jpg?raw=true" alt="MAAZDOTFBX Banner" width="100%">
 </p>
 
 <p align="center">
@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-
 
 <table>
   <tr>
@@ -23,46 +21,31 @@ A dedicated Technical Environment Artist with 3+ years of experience in creating
 
 ---
 
-
-
 <table>
   <tr>
     <th bgcolor="#FFFFFF" align="center" width="100%">
-      <font color="#000000" size="5"><b>FEATURED PROJECTS</b></font>
+      <font color="#000000" size="5"><b>FEATURED PROJECT</b></font>
     </th>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&h=350&q=80" alt="Procedural Cliff System" width="100%">
+        <!-- Asset Renamer Thumbnail -->
+        <img src="https://github.com/Maazdotfbx/portfolio-assets/blob/main/SM_chair_01%20SM_rock_A%20T_grass%20M_glass.png?raw=true" alt="Editor Utility Asset Renamer" width="100%">
       </p>
-      <h3 align="center">Procedural Cliff System</h3>
-      <p>A scalable, non-destructive system for varied and highly detailed environment cliffs. Features distance-based detail scaling and dynamic moss distribution.</p>
+      <h3 align="center">Editor Utility Asset Renamer</h3>
+      <p align="center">An automated Unreal Engine optimization tool that bulk-renames project files. Seamlessly injects industry-standard prefixes (such as <code>SM_</code> for Static Meshes, <code>T_</code> for Textures) based on asset class to maintain clean folder hierarchies.</p>
       <p align="center">
-        <kbd>Unreal Engine 5</kbd> <kbd>Blueprints</kbd> <kbd>Substance Designer</kbd> <kbd>PCG</kbd>
-      </p>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=350&q=80" alt="Dynamic Weather Shader Pack" width="100%">
-      </p>
-      <h3 align="center">Dynamic Weather Shader Pack</h3>
-      <p>A comprehensive shader pack for UE5, implementing dynamic weather effects (rain, snow, puddles) on environment materials with minimal performance cost.</p>
-      <p align="center">
-        <kbd>Unreal Engine 5</kbd> <kbd>Material Editor</kbd> <kbd>HLSL</kbd> <kbd>VFX</kbd>
+        <kbd>Unreal Engine 5</kbd> <kbd>Python</kbd> <kbd>Editor Utility Widgets</kbd> <kbd>Automation</kbd>
       </p>
     </td>
   </tr>
 </table>
 
 ---
-
-
 
 <table>
   <tr>
